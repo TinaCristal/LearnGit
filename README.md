@@ -20,6 +20,6 @@ fork 本仓库
 clone fork 后的仓库到本地
 建立文件夹，格式「姓名拼音」，例如：yanrongzhen
 
-从 problems.md 中挑选一个问题写代码，放到建立的文件夹中
+从 ProblemSet.md 中挑选一个问题写代码，放到建立的文件夹中
 
 推送修改到 fork 后的仓库，并向原始仓库提交 pull request
